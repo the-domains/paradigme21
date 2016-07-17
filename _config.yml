@@ -1,0 +1,14 @@
+layout_spectrum: 0.9702322511002421
+typography_spectrum: 0.3368769623339176
+color:
+  brandStrength: 0.002132916124537587
+  lightness: 0.33380624861456454
+  saturation: 0.4374811789020896
+  rhythmicContrast: 0.6666018802206963
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: paradigme21
